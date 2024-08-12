@@ -1,0 +1,26 @@
+body {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 139, 230);
+}
+
+header {
+    border-bottom: solid 2px rgb(53, 14, 14);
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(255, 139, 230);
+    
+}
+
+section {
+    background: rgb(247, 113, 218);
+   margin: 4px;
+   padding-bottom: 4px;
+   padding-top: 4px;
+    display: flex;
+    justify-content: center;
+}
+
+.tudo {
+   margin-left: 900px;
+}
